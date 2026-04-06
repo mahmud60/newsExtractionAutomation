@@ -1,0 +1,7 @@
+groq
+requests
+sqlalchemy
+pandas
+python-dotenv
+newspaper3k
+lxml[html_clean]
